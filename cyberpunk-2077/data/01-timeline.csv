@@ -1,0 +1,13 @@
+类别,项目,gig数,dataterm,比值,备注
+对照,本体 Pacifica（不含 Dogtown）,1,约 6,0.17,全作唯一一个本体 gig；dataterm 为 PowerPyx 总数减去 Dogtown 6 推出
+对照,Dogtown（Phantom Liberty）,9,6,1.50,与上一行同属 Pacifica 子区；差约 9 倍
+辖区,Regina Jones · Watson,23,36,0.64,攻略站逐项点算
+辖区,Muamar Reyes · Santo Domingo,11,20,0.55,同上
+辖区,Dakota Smith · Badlands,9,28,0.32,同上
+辖区,Wakako Okada · Westbrook,8,26,0.31,同上
+辖区,Dino Dinovic · City Center,5,12,0.42,同上
+辖区,Mr. Hands · Pacifica 与 Dogtown,9,12,0.75,与上面两行的 dataterm 重叠；多为 PL
+辖区,Heywood（Padre 辖）,约 21,,,反推值：86 减去已确证辖区之和；未确证
+合计,本体 gig 总数,86,,,另有 89 一说（含 Cyberpsycho Sightings）
+合计,本体 NCPD 扫描事件,156,,,口径冲突：156 成就口径 / 约 321 分区加总 / 346
+合计,快速旅行点 dataterm 总数,166,,,首发 137 → 1.5 版约 159 → 2.x 166

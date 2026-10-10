@@ -6,6 +6,7 @@
 | 游戏 | 品类 | 版本锚点 | 拆解案 |
 |---|---|---|---|
 | 杀戮尖塔 2 / Slay the Spire 2 | 卡牌 · 回合制 roguelike | v0.107.1（抢先体验） | [拆解案](slay-the-spire-2/拆解案.md) |
+| 赛博朋克 2077 / Cyberpunk 2077 | 动作 RPG · 开放世界 | 2.x（本体 + Phantom Liberty） | [拆解案](cyberpunk-2077/拆解案.md) |
 
 ---
 
