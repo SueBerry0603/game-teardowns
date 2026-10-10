@@ -1,0 +1,11 @@
+等级,名称,效果
+1,精英成群 Swarming Elites,地图精英数 5 → 8
+2,疲惫旅人 Weary Traveler,古灵只回复缺失 HP 的 80%
+3,贫困 Poverty,敌人与宝箱金币 ×0.75
+4,紧腰带 Tight Belt,药水槽 3 → 2
+5,登塔者之祸 Ascender's Bane,开局带一张诅咒
+6,通胀 Inflation,删牌 100 起、每次 +50
+7,稀缺 Scarcity,稀有牌与升级牌更少见（稀有率约减半、保底更慢）
+8,强敌 Tough Enemies,敌人 HP 提升（逐怪硬编码常量，非全局乘数）
+9,致命之敌 Deadly Enemies,敌人伤害提升（逐怪硬编码常量）
+10,双重 Boss Double Boss,三幕末尾连打两个 Boss

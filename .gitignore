@@ -1,0 +1,23 @@
+# 不进产物
+.teardown-progress.md
+.research-notes.md
+shots/
+
+# game-teardown-skill 是另一个独立仓库（本地副本），不并进这个仓库
+game-teardown-skill/
+
+# 每个游戏文件夹只发布 README + images + data；
+# tools/ 是生成图表的脚本，属于过程，不进产物（图本身已在 images/ 里）
+*/tools/
+
+# 公开数据的原始抓取（仅本地备查，不进产物）
+mech/
+research/
+sc_*.json
+sc_page_*.html
+research_enemies_normal.txt
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+desktop.ini

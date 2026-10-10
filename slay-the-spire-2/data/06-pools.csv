@@ -1,0 +1,28 @@
+池,稀有度,数量,备注
+卡牌,Common,100,每个角色色 20；无色牌无 Common
+卡牌,Uncommon,219,每个角色色 36 + 无色 39
+卡牌,Rare,155,每个角色色 26 + 无色 25
+卡牌,Ancient,18,每个角色色 2
+卡牌,Basic,19,铁甲 3，其余四角色各 4
+卡牌,Curse,18,
+卡牌,Event,19,
+卡牌,Status,16,
+卡牌,Token,10,
+卡牌,Quest,3,
+遗物,Ancient,100,
+遗物,Rare,50,
+遗物,Uncommon,40,
+遗物,Event,35,
+遗物,Common,30,
+遗物,Shop,30,
+遗物,Starter,10,
+药水,Common,20,
+药水,Uncommon,20,
+药水,Rare,20,
+药水,Event,2,
+事件,Event,39,
+事件,Shared,18,
+事件,Ancient,9,
+遭遇,Boss,12,每幕 3 选 1
+遭遇,Elite,12,每幕 3 选 1
+遭遇,Monster,63,其中 15 场标记为弱怪
