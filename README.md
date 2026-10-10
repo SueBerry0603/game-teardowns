@@ -7,6 +7,7 @@
 |---|---|---|---|
 | 杀戮尖塔 2 / Slay the Spire 2 | 卡牌 · 回合制 roguelike | v0.107.1（抢先体验） | [拆解案](slay-the-spire-2/拆解案.md) |
 | 赛博朋克 2077 / Cyberpunk 2077 | 动作 RPG · 开放世界 | 2.x（本体 + Phantom Liberty） | [拆解案](cyberpunk-2077/拆解案.md) |
+| 守望先锋 / Overwatch | 竞技 · 多人（英雄射击） | 2026 赛季年（Reign of Talon，S1–S5） | [拆解案](overwatch-2/拆解案.md) |
 
 ---
 
