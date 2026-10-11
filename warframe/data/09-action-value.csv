@@ -1,0 +1,7 @@
+模式,每轮时长,单位,轮次结构,是否无尽,备注,来源
+Survival,5,分钟,AABC 循环,是,唯一离散决策是「继续 / 撤离」，每轮出现一次,公开 · fandom 任务页
+Defense,5,波,AABC 循环,是,波数计而非时间计，实际时长随击杀速度浮动,公开 · fandom 任务页
+Excavation,100,秒/台,AABC 循环,是,轮次由钻机完成推进,公开 · fandom 任务页
+Disruption,120,秒/导管,按守住导管数定档,是,轮间 20 秒；非 AABC,公开 · fandom 任务页
+Defection,40,秒/队,8 队一循环,是,,公开 · fandom 任务页
+Interception,180,秒/轮,ABC 循环,是,下限 3 分钟（含占点期）,公开 · fandom 任务页

@@ -1,0 +1,47 @@
+项,类别,数值,单位,备注,来源
+Forma 建造,产率上限,1,个/23 小时,Foundry 同一物品不可同时建造,fandom Foundry
+Forma 建造时长,时长,23,小时,,fandom Foundry
+Forma 加速,定价,10,白金,恰为直购价的一半,fandom Foundry
+Forma 直购,定价,20,白金,,fandom Market
+战甲主体建造,时长,72,小时,加速 50 白金,fandom Foundry
+战甲部件建造,时长,12,小时,加速 25 白金,fandom Foundry
+主/副/近战武器建造,时长,12,小时,加速 25-35 白金,fandom Foundry
+Archwing 主体建造,时长,36,小时,,fandom Foundry
+Necramech 建造,时长,72,小时,制品直购 375 白金,fandom Foundry
+Helminth 汲取,时长,23,小时,加速 50 白金,fandom Foundry
+Orokin Catalyst,定价,20,白金,Mod 容量翻倍,fandom Market
+Orokin Reactor,定价,20,白金,Mod 容量翻倍,fandom Market
+战甲槽位,定价,20,白金,,fandom Foundry
+武器槽位,定价,12,白金,2 个,fandom Foundry
+战甲直购,定价,75,白金,跳过刷取与建造,fandom Market
+白金充值 4300,定价,199.99,USD,wiki 存档,fandom Platinum
+白金充值 2100,定价,99.99,USD,wiki 存档,fandom Platinum
+白金充值 1000,定价,49.99,USD,wiki 存档,fandom Platinum
+白金充值 370,定价,19.99,USD,wiki 存档,fandom Platinum
+白金充值 170,定价,9.99,USD,wiki 存档,fandom Platinum
+白金充值 75,定价,4.99,USD,wiki 存档,fandom Platinum
+Credits 结算,公式,1000 + 100 x (最低敌等级 - 1) + 奖励,公式,,fandom Credits
+Credits Index 高风险,单次产出,200000-250000,credits,首局 200k 后续 250k,fandom Credits
+Credits Sortie 三连,单次产出,100000,credits,,fandom Credits
+Endo 掉落,单次产出,15/50/80,endo,,fandom Endo
+Endo Sortie,单次产出,4000,endo,12% 概率,fandom Endo
+Kuva Siphon,单次产出,550-700,kuva,,fandom Kuva
+Kuva Flood,单次产出,1100-1400,kuva,,fandom Kuva
+Void Traces 单局,单次产出,6-30,traces,,fandom Void Traces
+Void Traces 上限,上限,MR x 50 + 100,traces,,fandom Void Traces
+声望日上限,上限,16000 + MR x 500,standing/天,MR10 = 21000/天,fandom Standing
+声望转化率,转化,15,%,任务亲和转声望,fandom Standing
+Mod 升级 Endo,公式,10 x 稀有度系数 x (2^Rank - 1),公式,铜1 银2 金3 传说4,fandom Mod
+Mod 升级 Credit,公式,Cr_BC x (2^Rank - 1),公式,铜483 银966 金1449 传说1932,fandom Mod
+Mod 容量 武器,上限,60,,基础,fandom Mod
+Mod 容量 战甲,上限,78,,"Jade 96",fandom Mod
+交易门槛,门槛,MR2,MR,需双重验证,fandom Trading
+每日交易笔数,上限,= MR,笔/天,,fandom Trading
+交易税上限 传说 Mod,上限,1000000,credits,,fandom Trading
+交易税上限 R5 Arcane,上限,2100000,credits,,fandom Trading
+行情 Wisp Prime Set,行情,69,白金,2026-10-11 查询 warframe.market 最低挂单,warframe.market
+行情 Khora Prime Set,行情,79,白金,2026-10-11 查询,warframe.market
+行情 Nekros Prime Set,行情,94,白金,2026-10-11 查询,warframe.market
+行情 Primed Continuity R10,行情,99,白金,2026-10-11 查询,warframe.market
+行情 Arcane Energize R0,行情,7,白金,2026-10-11 查询,warframe.market
+行情 Arcane Energize R5,行情,125,白金,2026-10-11 查询,warframe.market
