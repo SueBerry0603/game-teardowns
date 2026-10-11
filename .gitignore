@@ -13,6 +13,7 @@ game-teardown-skill/
 # 公开数据的原始抓取（仅本地备查，不进产物）
 mech/
 research/
+_research/
 sc_*.json
 sc_page_*.html
 research_enemies_normal.txt
