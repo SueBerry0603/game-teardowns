@@ -9,7 +9,12 @@
 | 赛博朋克 2077 / Cyberpunk 2077 | 动作 RPG · 开放世界 | 2.x（本体 + Phantom Liberty） | [拆解案](cyberpunk-2077/拆解案.md) |
 | 守望先锋 / Overwatch | 竞技 · 多人（英雄射击） | 2026 赛季年（Reign of Talon，S1–S5） | [拆解案](overwatch-2/拆解案.md) |
 | 崩坏：星穹铁道「货币战争」/ Honkai: Star Rail · Currency Wars | 自走棋 · Roguelike（PVE） | 4.6「月升之前，与兽共舞」 | [拆解案](honkai-star-rail-currency-wars/拆解案.md) |
+| 崩坏：星穹铁道：退游与回坑 / Honkai: Star Rail · Churn & Return | 免费手游 · **用户旅程复盘**（体例例外） | 2.3 – 4.6（2024-06 – 2026-10） | [复盘](honkai-star-rail-churn/退游回坑复盘.md) |
 | Warframe / 星际战甲 | 刷宝射击 · F2P 长期运营 | U44.1.0（2026-10-07） | [拆解案](warframe/拆解案.md) |
+
+> 倒数第二行是**体例例外**：它不按六域拆玩法，而是拆一次真实的流失与回流——
+> 哪个机制把人推走、哪个把人拉回、哪个把人留下、留下的人在做什么。
+> 样本 n=1 且观察者即被观察者，因此数据来源三档与局限都写在文内。
 
 ---
 

@@ -14,6 +14,7 @@ game-teardown-skill/
 mech/
 research/
 _research/
+_research_tmp/
 sc_*.json
 sc_page_*.html
 research_enemies_normal.txt
